@@ -1,6 +1,6 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Brandon Ordoobadi Electrical Engineering Student (2026)
+brandonordoobadi@vt.edu
 
 ## Repo Link
 <a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
@@ -9,22 +9,23 @@ rhforsythjr@vt.edu
 {% include youtube.html video="miltuOLWDFQ" %}
 
 ## Mentor
-Josh Sutton, Electrical Engineering 2021
+Jivi Teshkuk, Electrical Engineering (2024)
 
 ## Current Status
-Complete
+In progress, on step 1
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+I plan to create a class-D amplifier with a 5-bandpass filter system.  
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+The purpose in creating this project is to help expose me to the more practical part of the creation and design process in Electrical Engineering.  A project regarding audio was chosen because I feel my understand towards audio is lacking and I would like to challenge myself by creating a project that will require me to learn more about these topics.  Furthermore, I have an interest in audio and in the future will potentiall expand on this project idea, making it a good starting point.  
+
 
 ## Tasks
 
-<!-- Your Text Here. See Example above -->
+I will first be designing a class-D amplifier.  Then, I will deisgn filters to create the 5-bandpass filter system.  These two components will be connected together to create the audio system.
 
 ## Design Decisions
 
@@ -44,7 +45,7 @@ Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu vel
 
 ## Timeline
 
-<!-- Your Text Here. See Example above -->
+I plan to break the project into two parts.  One will be the design of the class-D amplifier and the other will be the bandpass filter system.  I plan to have the class-D amplifier constructed after 2 weeks of time, so around February 3th.  Afterwards, I will contruct the bandpass filter system, which I plan to have done in a month, so around March 2nd (before spring break).  By combining these components, I will have the project completed for me to order parts and construct the project.
 
 ## Useful Links
 
