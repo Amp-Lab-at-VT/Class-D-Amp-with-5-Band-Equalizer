@@ -16,18 +16,18 @@ In progress, on step 1
 
 ## Project Overview
 
-I plan to create a class-D amplifier with a 5-bandpass filter system.  
+I plan to create a 5-Band Graphic Equalizer.  This will be done by creating a class-D amplifier, along with a 5-bandpass filter system.  
 
 ## Educational Value Added
 
-*To help expose me to the more practical part of the creation and design process I will encounter in my Electrical Engineering journey  
-*To help challenge myself by creating a project with aspects I am not fimiliar with, helping me learn more about audio in Electrical Engineering
-*To explore my current interest in audio and help set up the groundwork for potentially expanding upon this project in the future 
+* To help expose me to the more practical part of the creation and design process I will encounter in my Electrical Engineering journey  
+* To help challenge myself by creating a project with aspects I am not fimiliar with, helping me learn more about audio in Electrical Engineering
+* To explore my current interest in audio and help set up the groundwork for potentially expanding upon this project in the future 
 
 
 ## Tasks
 
-I will first be designing a class-D amplifier.  Then, I will deisgn filters to create the 5-band grpahic equalizer system.  These two components will be connected together to create the audio system.
+I will first be designing a class-D amplifier.  Then, I will deisgn filters to create the 5-bandpass filter system.  
 
 ## Design Decisions
 
