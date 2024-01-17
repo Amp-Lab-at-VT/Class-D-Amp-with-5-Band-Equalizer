@@ -9,7 +9,7 @@ brandonordoobadi@vt.edu
 {% include youtube.html video="miltuOLWDFQ" %}
 
 ## Mentor
-Jivi Teshkuk, Electrical Engineering (2024)
+Jivi Kukreja, Electrical Engineering (2024)
 
 ## Current Status
 In progress, on step 1
@@ -20,12 +20,14 @@ I plan to create a class-D amplifier with a 5-bandpass filter system.
 
 ## Educational Value Added
 
-The purpose in creating this project is to help expose me to the more practical part of the creation and design process in Electrical Engineering.  A project regarding audio was chosen because I feel my understand towards audio is lacking and I would like to challenge myself by creating a project that will require me to learn more about these topics.  Furthermore, I have an interest in audio and in the future will potentiall expand on this project idea, making it a good starting point.  
+*To help expose me to the more practical part of the creation and design process I will encounter in my Electrical Engineering journey  
+*To help challenge myself by creating a project with aspects I am not fimiliar with, helping me learn more about audio in Electrical Engineering
+*To explore my current interest in audio and help set up the groundwork for potentially expanding upon this project in the future 
 
 
 ## Tasks
 
-I will first be designing a class-D amplifier.  Then, I will deisgn filters to create the 5-bandpass filter system.  These two components will be connected together to create the audio system.
+I will first be designing a class-D amplifier.  Then, I will deisgn filters to create the 5-band grpahic equalizer system.  These two components will be connected together to create the audio system.
 
 ## Design Decisions
 
