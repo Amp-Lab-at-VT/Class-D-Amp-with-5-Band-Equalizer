@@ -3,7 +3,7 @@ Brandon Ordoobadi Electrical Engineering Student (2026)
 brandonordoobadi@vt.edu
 
 ## Repo Link
-<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
+<a class="button is-link" href="https://github.com/Pathfinder987?tab=repositories" >https://magicmirror.builders/</a>
 
 ## Photo
 {% include youtube.html video="miltuOLWDFQ" %}
