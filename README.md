@@ -16,7 +16,7 @@ In progress, on step 1
 
 ## Project Overview
 
-I plan to create a 5-Band Graphic Equalizer.  This will be done by creating a class-D amplifier, along with a 5-bandpass filter system.  
+I plan to create a 5-Band Graphic Equalizer.  This will be done by creating a class-D amplifier, along with a 5-bandpass filter system.  To power this system, I will use USB power and the audio will be sent through two tweeter speakers.  Once the project schematic is complete, I will create a PCB of the finished project.
 
 ## Educational Value Added
 
@@ -27,7 +27,12 @@ I plan to create a 5-Band Graphic Equalizer.  This will be done by creating a cl
 
 ## Tasks
 
-I will first be designing a class-D amplifier.  Then, I will deisgn filters to create the 5-bandpass filter system.  
+* research and design usb power supply
+* design a class-D amplifier  
+* deisgn filters to create the 5-bandpass filter system
+* design two tweeter speakers.
+* combine all components to create complete circuit
+* create PCB for circuit, order parts, and build/complete project
 
 ## Design Decisions
 
