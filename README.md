@@ -30,7 +30,7 @@ I plan to create a 5-Band Graphic Equalizer.  This will be done by creating a cl
 * research and design usb power supply
 * design a class-D amplifier  
 * deisgn filters to create the 5-bandpass filter system
-* design two tweeter speakers.
+* determine a specific model and implement two tweeter speakers.
 * combine all components to create complete circuit
 * create PCB for circuit, order parts, and build/complete project
 
